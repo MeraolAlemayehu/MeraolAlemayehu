@@ -1,4 +1,4 @@
-![MasterHead](https://whiteduck.de/wp-content/uploads/WD-Developer-Productivity-Website-1170x680px.gif)
+[![MasterHead](https://whiteduck.de/wp-content/uploads/WD-Developer-Productivity-Website-1170x680px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Meraol Alemayehu</h1>
 <h3 align="center">A passionate AI engineer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
