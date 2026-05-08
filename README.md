@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meraol Alemayehu</h1>
-<h3 align="center">A passionate AI engineer from Ethiopia</h3>
+<h3 align="center">A passionate AI + cyber security engineer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraolalemayehu&label=Profile%20views&color=0e75b6&style=flat" alt="meraolalemayehu" /> </p>
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/mera_alex39" target="blank"><img src="https://img.shields.io/twitter/follow/mera_alex39?logo=twitter&style=for-the-badge" alt="mera_alex39" /></a> </p>
 
 - 🔭 I’m currently working on [Disaster Prediction model](https://github.com/MeraolAlemayehu/DisasterPrediction-main)
-
+- 👨‍🎓 I'm Masters in computer science student.
 - 📫 How to reach me **meralex3939@gmail.com**
 
 - ⚡ Fun fact **I can play piano**
