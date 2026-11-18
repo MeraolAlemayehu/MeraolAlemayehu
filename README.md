@@ -1,66 +1,278 @@
-<h1 align="center">Hi 👋, I'm Meraol Alemayehu</h1>
-<h3 align="center">AI & Cybersecurity Research Enthusiast from Ethiopia</h3>
 
-<p align="center">
-Building AI-driven systems for cybersecurity, signal intelligence, and digital threat analysis.
-</p>
+<!-- ====================================================== -->
+<!--              MERAOL ALEMAYEHU | GITHUB                 -->
+<!--              NEON SYSTEMS ENGINEERING                  -->
+<!-- ====================================================== -->
 
-<img align="right" alt="AI Cybersecurity" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:052e2b,100:020617&height=3&section=header" />
 
-### 🧠 Current Focus
+<br/>
 
-- 🔬 Working on **Transformer-based cryptanalysis models**
-- 🧩 Exploring **bilinear signal compression & secure representation learning**
-- 🔐 Researching **AI-driven cybersecurity and adversarial signal analysis**
-- 📊 Interested in **NLP, anomaly detection, and disinformation systems**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,30:052e2b,70:064e3b,100:020617&text=MERAOL%20ALEMAYEHU&fontColor=7CFFCB&fontSize=52&fontAlignY=42&desc=SYSTEMS%20ENGINEERING%20%2F%2F%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=60&animation=fadeIn" />
 
----
+<br/>
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00F5B8&center=true&vCenter=true&width=750&lines=Rust+%26+AI+Systems+Engineer;Engineering+High-Performance+Systems;Exploring+Distributed+Computing;Building+Intelligent+Software;Technical+Project+Management" />
 
-- 🎓 MSc Computer Science student  
-- 🎓 IT graduate from Arba Minch University  
-- 🧠 Focused on AI + Cybersecurity intersection  
-- 📫 Email: **meralex3939@gmail.com**  
-- ⚡ Fun fact: I play piano  
+<br/><br/>
 
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://twitter.com/mera_alex39">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+<a href="https://github.com/MeraolAlemayehu">
+<img src="https://img.shields.io/badge/GITHUB-MERAOLALEMAYEHU-00F5B8?style=for-the-badge&logo=github&logoColor=00F5B8&labelColor=050B12"/>
+</a>
+<a href="https://linkedin.com/in/meraol-alemayehu-b0461a251">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=050B12"/>
 </a>
 
+<br/><br/>
+
+<kbd> RUST </kbd> <kbd> PYTHON </kbd> <kbd> AI SYSTEMS </kbd> <kbd> DISTRIBUTED COMPUTING </kbd>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5B8,50:00D9FF,100:8B5CF6&height=2&section=header" />
+
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+
+<h2 align="center">
+  <code>01 / THE ENGINEER</code>
+</h2>
+
+<div align="center">
+
+### Engineering systems that perform. Building intelligence that scales.
+
+</div>
+
+I am a software engineer and technical project management professional from Ethiopia, working at the intersection of **systems programming, artificial intelligence, backend engineering, and technical leadership**.
+
+I am particularly interested in understanding what happens beneath software abstractions: memory, concurrency, asynchronous execution, data flow, latency, and computational performance.
+
+My engineering direction combines low-level systems development with intelligent software architectures.
+
+<br/>
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/01-RUST-FF6B35?style=flat-square&labelColor=09090b"/> | Systems programming and performance engineering |
+|:---|:---|
+| <img src="https://img.shields.io/badge/02-AI-00D9FF?style=flat-square&labelColor=09090b"/> | Machine learning and intelligent systems |
+| <img src="https://img.shields.io/badge/03-BACKEND-00F5B8?style=flat-square&labelColor=09090b"/> | APIs and scalable software architecture |
+| <img src="https://img.shields.io/badge/04-DELIVERY-8B5CF6?style=flat-square&labelColor=09090b"/> | Agile delivery and technical leadership |
+
+</div>
+
+---
+
+<!-- CURRENT OPERATIONS -->
+
+<h2 align="center">
+  <code>02 / ENGINEERING OPERATIONS</code>
+</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-RUST-FF6B35?style=for-the-badge&logo=rust&logoColor=white&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/AI_LANGUAGE-PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080D16"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-ASYNC%20SYSTEMS-00F5B8?style=flat-square&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20INFRASTRUCTURE-00D9FF?style=flat-square&labelColor=080D16"/>
+<img src="https://img.shields.io/badge/FOCUS-PERFORMANCE-8B5CF6?style=flat-square&labelColor=080D16"/>
+
+</div>
+
+```rust
+struct EngineeringProfile {
+    name: &'static str,
+    location: &'static str,
+    primary_languages: [&'static str; 2],
+    interests: [&'static str; 4],
+}
+
+fn main() {
+    let engineer = EngineeringProfile {
+        name: "Meraol Alemayehu",
+        location: "Ethiopia",
+        primary_languages: ["Rust", "Python"],
+        interests: [
+            "Systems Engineering",
+            "Artificial Intelligence",
+            "Distributed Systems",
+            "Performance Optimization",
+        ],
+    };
+}
+```
+
+---
+
+<!-- RESEARCH -->
+
+<h2 align="center">
+  <code>03 / RESEARCH LAB</code>
+</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RESEARCH%20PROJECT-01-00F5B8?style=for-the-badge&labelColor=080D16"/>
+
+### ADAPTIVE BACKPRESSURE CONTROL
+
+**Rust Asynchronous Data Pipelines Using a Latency-Feedback Algorithm**
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:052e2b,50:064e3b,100:020617&height=2"/>
+
+</div>
+
+My MSc Computer Science research investigates adaptive workload regulation in asynchronous Rust data pipelines through latency-feedback control.
+
+**Research objectives**
+
+- Investigate adaptive backpressure mechanisms.
+- Monitor and analyze processing latency.
+- Regulate workload based on observed system behavior.
+- Evaluate throughput, latency and resource utilization.
+- Benchmark adaptive and fixed workload configurations.
+
+### System architecture
+
+```mermaid
+flowchart TD
+    A["DATA PRODUCERS"] --> B["BOUNDED QUEUE"]
+    B --> C["ASYNC WORKERS"]
+    C --> D["PROCESSING PIPELINE"]
+    D --> E["LATENCY MONITOR"]
+    E --> F["FEEDBACK CONTROLLER"]
+    F -->|"Adjust workload"| B
+
+    style A fill:#052e2b,stroke:#00f5b8,color:#ffffff
+    style B fill:#052e2b,stroke:#00f5b8,color:#ffffff
+    style C fill:#052e2b,stroke:#00d9ff,color:#ffffff
+    style D fill:#052e2b,stroke:#00d9ff,color:#ffffff
+    style E fill:#052e2b,stroke:#8b5cf6,color:#ffffff
+    style F fill:#052e2b,stroke:#00f5b8,color:#ffffff
+```
+
+**Research technology**
+
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" />
+
+`Tokio` · `Async/Await` · `Latency Analysis` · `Benchmarking` · `Feedback Control`
+
+---
+
+<!-- TECHNOLOGY STACK -->
+
+<h2 align="center">
+  <code>04 / TECHNOLOGY ECOSYSTEM</code>
+</h2>
+
+<div align="center">
+
+### SYSTEMS & PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=rust,python,js,sql&theme=dark" />
+
+<br/><br/>
+
+### ARTIFICIAL INTELLIGENCE & DATA
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" />
+
+<br/><br/>
+
+### BACKEND & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=django,postgres,redis,docker,linux,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<!-- PROJECTS -->
+
+<h2 align="center">
+  <code>05 / ENGINEERING PROJECTS</code>
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/MeraolAlemayehu?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00F5B8?style=for-the-badge&logo=github&logoColor=00F5B8&labelColor=080D16"/>
+</a>
+
+</div>
+
+| ENGINEERING AREA | PROJECT DIRECTION |
+|:---|:---|
+| Rust Systems | Ownership, concurrency and asynchronous execution |
+| Adaptive Backpressure | Latency-feedback workload regulation |
+| AI Engineering | Machine learning and intelligent applications |
+| Backend Engineering | API development and system architecture |
+
+---
+
+<!-- EDUCATION -->
+
+<h2 align="center">
+  <code>06 / ACADEMIC BACKGROUND</code>
+</h2>
+
+<div align="center">
+
+**MSc Computer Science**
+
+Ambo University
+
+<br/>
+
+**MSc Project Management**
+
+In Progress
+
+<br/>
+
+**BSc Information Technology**
+
+Arba Minch University
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">
+  <code>07 / ESTABLISH CONNECTION</code>
+</h2>
+
+<div align="center">
+
 <a href="https://linkedin.com/in/meraol-alemayehu-b0461a251">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=080D16"/>
 </a>
 
 <a href="https://kaggle.com/meraolalemayehu">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/KAGGLE-00F5B8?style=for-the-badge&logo=kaggle&logoColor=00F5B8&labelColor=080D16"/>
 </a>
 
-<a href="https://instagram.com/meraol_alemayehu">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<a href="mailto:meralex3939@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=080D16"/>
 </a>
-</p>
 
----
+<br/><br/>
 
-### 🛠️ AI & Cybersecurity Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:020617&height=160&section=footer&animation=fadeIn"/>
 
-<p align="left">
+### <code>BUILD SYSTEMS · MEASURE PERFORMANCE · ENGINEER INTELLIGENCE</code>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<sub>Designed and engineered by Meraol Alemayehu</sub>
 
-</p>
+</div>
